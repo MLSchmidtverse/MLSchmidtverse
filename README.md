@@ -13,13 +13,13 @@
 ### 🌱 My progress
 - Playing around with **Markdown and Notebooks**
 - Working in WBS teams on sample cases using **Python (Pandas, Matplotlib, Scikit-learn)**
-- Excited about training in **Machine Learning** (currently building a chatbot and prepping for my final project)
+- Excited about training in **Machine Learning** (currently working on my final project)
 
 ---
 ### 🚀 My Skills and Experience
 - **Visual Studio Code**: My preferred code editor.
 - **Google Colab (Jupyter Notebooks)**: For collaborative data analysis and visualization with **Python**.
-- **SQL**: First steps in querying and managing relational databases.
+- **SQL**: For querying and managing relational databases.
 
 - **R**: My usual programming language during my PhD studies.
 - **SPSS**: Statistical data analysis during university, later replaced by R.
