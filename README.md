@@ -5,15 +5,14 @@
 </div>
 
 ### 🎯 What I'm up to
-- **📊 WBS Data Science course**: Fulfilling a long-held ambition with a bootcamp-style training programme. 💪🧠
-- **🎓 Recently finished my PhD in Psychology**: On the 10th of March, I defended my thesis with a summa cum laude. 🎉
-- **✒️ Submitting another manuscript**: My next manuscript on emotional shifts in narratives is about to hit the inbox of an academic journal's editor.
-- **💡 Learning new things in my time off**: Like Spanish 🇪🇸, Card Tricks 🃏 and Historical European Martial Arts ⚔️.
+- **📊 Working at WBS CODING SCHOOL**: From the classroom to the wild world of data science and back again, this time as an instructor. 💪🧠
+- **🎓 Finished my PhD in Psychology**: In March 2025, I defended my thesis with a summa cum laude. 🎉
+- **💡 Learning new things in my time off**: Like Spanish 🇪🇸, Card Tricks 🃏 and Historical European Martial Arts ⚔️
 
 ### 🌱 My progress
-- Playing around with **Markdown and Notebooks**
-- Working in WBS teams on sample cases using **Python (Pandas, Matplotlib, Scikit-learn)**
-- Excited about training in **Machine Learning** (currently working on my final project)
+- Designing reproducable analysis pipelines in **Python**
+- Deepening my **data and ML engineering practices**
+- Experimenting with **AI-assisted tooling and agent-based workflows**
 
 ---
 ### 🚀 My Skills and Experience
