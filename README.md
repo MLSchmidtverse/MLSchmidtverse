@@ -10,21 +10,21 @@
 - **💡 Learning new things in my time off**: Like Spanish 🇪🇸, Card Tricks 🃏 and Historical European Martial Arts ⚔️
 
 ### 🌱 My progress
-- Designing reproducable analysis pipelines in **Python**
+- Designing analysis pipelines in **Python**
 - Deepening my **data and ML engineering practices**
 - Experimenting with **AI-assisted tooling and agent-based workflows**
 
 ---
-### 🚀 My Skills and Experience
-- **Visual Studio Code**: My preferred code editor.
-- **Google Colab (Jupyter Notebooks)**: For collaborative data analysis and visualization with **Python**.
-- **SQL**: For querying and managing relational databases.
+### 🚀 My Skills and Tools
+- **Visual Studio Code**: My preferred IDE.
 
-- **R**: My usual programming language during my PhD studies.
+- **SQL**: For querying and managing relational databases. Mostly worked with MySQL & Microsoft SQL Server.
+- **Python**: My everyday tool, here and there with a certification (most recent: PCEP-30-2).
+- **R**: My go-to programming language during my PhD studies, later largely replaced by Python.
 - **SPSS**: Statistical data analysis during university, later replaced by R.
 
-- **Tableau**: Developing interactive dashboards that provide valuable insights.
+- **Tableau**: For playing with dashboards. I like it slightly better than Data Studio.
 
-- **Project Management (Agile)**: Managing innovation research projects in health tech.
+- **Project Management (Agile)**: Managing innovation research projects in health tech, mostly using Trello, Jira, Notion & ClickUp.
 
 ---
